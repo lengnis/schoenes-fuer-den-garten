@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-05-28T15:29:12+02:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Schönes für den Garten</title>
+  
+
+  
+    <subtitle>Futterhäuser, Nistkästen und mehr. Alles aus einer Hand.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Burggarten Stickhausen 2023</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Burggarten Stickhausen 2023" />
+      <published>2023-05-28T00:00:00+02:00</published>
+      <updated>2023-05-28T00:00:00+02:00</updated>
+      <id>http://localhost:4000/burggarten-stickhausen</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

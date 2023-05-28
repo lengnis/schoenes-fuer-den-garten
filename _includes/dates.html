@@ -1,0 +1,28 @@
+<!-- Dates Section -->
+<section class="success" id="dates">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Termine</h2>
+        <hr class="star-secondary">
+      </div>
+    </div>
+
+    <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+      {% for post in site.posts %}
+      <div class="w3-third w3-margin-bottom">
+        <img src="img/dates/{{ post.img }}" alt="{{post.alt}}" style="width:100%" class="w3-hover-opacity">
+        <div class="w3-container w3-white">
+          <p><b>{{ post.title }}</b></p>
+          <p class="w3-opacity">{{ post.datum }}</p>
+          <p>{{ post.description }}</p>
+          <button class="btn btn-success btn-sm w3-margin-bottom" onclick="window.location.href='{{ post.link }}'">Zur
+            Veranstaltung</button>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+
+  </div>
+</section>
