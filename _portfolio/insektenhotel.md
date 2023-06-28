@@ -7,5 +7,5 @@ description: Use this area of the page to describe your project. Lorem ipsum dol
 images:
     - /img/portfolio/insektenhotel_kupfer.jpg
     - /img/portfolio/insektenhotel_alu.jpg
-    - /img/portfolio/insektenhotel_nah.jpg
+    - /img/portfolio/insektenhotel_nah.JPG
 ---
