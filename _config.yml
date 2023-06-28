@@ -61,5 +61,4 @@ defaults:
       permalink: ""
 
 collections:
-  portfolio:
-    sort_by: modal-id
+  - portfolio
