@@ -1,6 +1,6 @@
 ---
 layout: default
-img: burggarten.jpg
+img: burggarten.jpeg
 alt: sickhausen
 title: Burggarten Stickhausen 2023
 datum: Sonntag, 04. Juni 2023
