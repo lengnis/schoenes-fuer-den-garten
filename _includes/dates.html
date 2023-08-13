@@ -9,7 +9,7 @@
     </div>
 
     <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
-      {% for post in site.posts %}
+      {% for post in site.posts reversed %}
       <div class="w3-third w3-margin-bottom">
         <img src="img/dates/{{ post.img }}" alt="{{post.alt}}" style="width:100%" class="w3-hover-opacity">
         <div class="w3-container w3-white">
