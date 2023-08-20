@@ -5,7 +5,6 @@ title: Futterhäuser
 img: futterhaus_kupfer.jpeg
 alt: futterhaus_kupfer
 description:
-
 images:
     - img/portfolio/futterhaus_kupfer.jpeg
     - img/portfolio/futterhaus_holz.jpeg
