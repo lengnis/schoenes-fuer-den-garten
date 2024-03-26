@@ -520,6 +520,12 @@ footer .footer-below {
     filter: brightness(50%);
     width: 100%;
 }
+
+@media (max-width: 768px) {
+    .hero-text {
+      display: none;
+    }
+  }
          
 /* designing title and tag line */
 .hero-text {
