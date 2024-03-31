@@ -542,8 +542,8 @@ footer .footer-below {
     font-size: 3em;
 }
 
-#impress {
-    padding-top: 20px;
+.impress {
+    padding-top: 100px;
 }
 
 /* Center nav items */
